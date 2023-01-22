@@ -1,0 +1,6 @@
+name: SmartShulkerBoxes
+version: '${project.version}'
+main: net.keinekohle.smartshulkerboxes.main.Main
+api-version: 1.19
+authors: [ KeineKohle ]
+website: https://github.com/KeineKohleDev
